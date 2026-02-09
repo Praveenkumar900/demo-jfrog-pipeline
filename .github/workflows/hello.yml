@@ -8,3 +8,6 @@ jobs:
 
     steps:
       - run: echo "Hello from GitHub Actions!"
+      - run: echo "Step 1"
+      - run: echo "Step 2"
+      - run: date
